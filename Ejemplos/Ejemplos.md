@@ -1,1 +1,0 @@
-# Ejemlos del Patrón Estrategia
