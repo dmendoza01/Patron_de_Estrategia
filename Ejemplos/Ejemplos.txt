@@ -1,1 +1,1 @@
-# Se Muestran Ejemplos del Patrón de Estrategia
+Se Muestran Ejemplos del Patrón de Estrategia
