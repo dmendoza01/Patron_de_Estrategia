@@ -9,7 +9,7 @@ Se muestra Presentación, Documento y 2 Ejemplos del Patrón de Diseño de Estra
 
 
 
-void Info_para_Clase{
+private void Info_para_Clase(){
 	String nombre = "Diego Mendoza";
 	String matricula = "338956";
 	String escuela = "UACH - FING";
