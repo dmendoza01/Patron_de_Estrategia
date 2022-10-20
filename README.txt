@@ -4,7 +4,7 @@
 
 Patrón de Diseño de Estrategia (de Comportamiento)
 
-Se muestra Presentación, Documento y 2 Ejemplos del Patrón de Diseño de Estrategia
+Se muestra Presentación, Documento y 3 Ejemplos del Patrón de Diseño de Estrategia
 
 
 
